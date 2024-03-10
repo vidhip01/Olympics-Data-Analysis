@@ -17,4 +17,19 @@ This repository contains the code and analysis for an Olympics data analysis pro
 -seaborn
 -matplotlib
 
+olympics-data-analysis/
+│
+├── data/                 # Store dataset files
+│   └── olympics_data.csv
+│
+├── notebooks/            # Jupyter Notebooks
+│   └── Olympics_Data_Analysis.ipynb
+│
+├── visualizations/       # Store output visualizations
+│
+├── .gitignore            
+├── README.md            
+└── requirements.txt      
+
+
 
